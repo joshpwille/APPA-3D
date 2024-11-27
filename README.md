@@ -56,3 +56,6 @@ Scalable Environment: Supports 3D environments with static and dynamic obstacles
 To maintain a clear history of changes, each function is assigned a version number. The version number is updated whenever the corresponding function is modified. This helps in:
 
 Update the function's version number and document the change in the README.md.
+
+
+The file Test_1.ipymb is a modified version of reward and action planning.  DanielThomason
