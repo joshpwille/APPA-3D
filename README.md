@@ -58,4 +58,6 @@ To maintain a clear history of changes, each function is assigned a version numb
 Update the function's version number and document the change in the README.md.
 
 
-The file Test_1.ipymb is a modified version of reward and action planning.  DanielThomason
+The file Test_1.ipymb is a modified version of reward and action planning.  
+
+The file architecture_examles.ipynb is the most updated version of the project.  - J Wille
